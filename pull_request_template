@@ -1,0 +1,11 @@
+// Its a description about how to do pull request by vs code + git.....
+** first do fork of any repository by selecting repository and click fork button 
+** now you successfully fork 
+*clone repository by type git clone link(link is in fork repo in code button)
+*now clone done (it may take sevral minutes based on your internet speed)
+*now resolve issue that given in main repositry section
+*change branch (best practice but also change main branch) type git status (first change cmd location type cd name of your file) to check status
+*type git add .
+*type git commit -m "name of your wish"
+*type git push origin (name of repository)
+*come git page of fork repo and compare pull request select and its done
